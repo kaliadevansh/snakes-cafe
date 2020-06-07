@@ -66,4 +66,4 @@ be used to handle user inputs. String interpolation will be used to handle menu 
 ![Solution image displaying approach to the solution](./assets/snakes-cafe.jpg "SnakesCafe")
  
 ## Pull Request link
-Coming Soon!
+https://github.com/kaliadevansh/snakes-cafe/pull/1
